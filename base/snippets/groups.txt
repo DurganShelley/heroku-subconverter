@@ -1,8 +1,4 @@
-🚀 节点选择`select`[]DIRECT`[]🚀 手动切换`.*
-🚀 手动切换`select`.*
-📲 电报消息`select`[]🚀 节点选择`[]DIRECT`.*
-📹 油管视频`select`[]🚀 节点选择`[]DIRECT`.*
-📺 巴哈姆特`select`[]🚀 节点选择`[]DIRECT`.*
+🚀 节点选择`select`.*
 📺 哔哩哔哩`select`[]DIRECT`[]🚀 节点选择`.*
 Ⓜ️ 微软云盘`select`[]DIRECT`[]🚀 节点选择`.*
 Ⓜ️ 微软服务`select`[]DIRECT`[]🚀 节点选择`.*
